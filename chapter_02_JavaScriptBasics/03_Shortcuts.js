@@ -72,6 +72,8 @@ const vsCodeShortcuts = {
     { shortcut: 'Ctrl + K Ctrl + D', description: 'Move Last Selection to Next Match' },
   ],
 
+
+
   // Debugging
   debugging: [
     { shortcut: 'F5', description: 'Start Debugging' },
@@ -93,16 +95,16 @@ const vsCodeShortcuts = {
 
 // Display function to print shortcuts in table format
 function displayShortcuts() {
-  console.log('\n===== VS CODE SHORTCUTS FOR WINDOWS =====\n');
-  
-  for (const category in vsCodeShortcuts) {
-    console.log(`\n--- ${category.toUpperCase()} ---`);
-    console.log('Shortcut | Description');
-    console.log('---------|-------------------------');
-    
-    vsCodeShortcuts[category].forEach(item => {
-      console.log(`${item.shortcut.padEnd(15)} | ${item.description}`);
-    });
+  console.log( '\n===== VS CODE SHORTCUTS FOR WINDOWS =====\n' );
+
+  for ( const category in vsCodeShortcuts ) {
+    console.log( `\n--- ${ category.toUpperCase() } ---` );
+    console.log( 'Shortcut | Description' );
+    console.log( '---------|-------------------------' );
+
+    vsCodeShortcuts[ category ].forEach( item => {
+      console.log( `${ item.shortcut.padEnd( 15 ) } | ${ item.description }` );
+    } );
   }
 }
 
