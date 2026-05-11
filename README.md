@@ -95,7 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Author**: Vinit Bhanushali
-- **Email**: vinit.bhanushali@jiostar.com
+- **Email**: vinit.bhanushali@gmail.com
 - **GitHub**: [vinit199003](https://github.com/vinit199003)
 
 ## 🔗 Useful Links
