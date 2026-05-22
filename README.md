@@ -107,4 +107,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## Changelog
+
+- 2026-05-22: Updated README with usage notes and a changelog entry.
+
 ⭐ **Star this repository** if you find it helpful for learning Playwright and JavaScript!
