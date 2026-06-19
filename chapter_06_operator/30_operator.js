@@ -1,0 +1,5 @@
+//Operator are having 2 types
+//1. Assignment operator
+//2. Arithmetic operator
+//1. Assignment operator employs the = sign to assign values to variables. For example, x = 5 assigns the value 5 to the variable x. It can also be used in combination with other operators for compound assignments, such as +=, -=, *=, and /=, which perform an operation and assignment in one step (e.g., x += 3 is equivalent to x = x + 3).
+//2. Arithmetic operators are used to perform mathematical operations on numbers. The basic arithmetic operators include + (addition), - (subtraction), * (multiplication), / (division), and % (modulus). These operators can be used to perform calculations and manipulate numeric values in JavaScript. For example, 5 + 3 will yield 8, while 10 % 3 will yield 1, which is the remainder of the division of 10 by 3.
