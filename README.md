@@ -52,6 +52,7 @@ node chapter_02_JavaScriptBasics/03_Shortcuts.js
 - **Data Types**: Primitives, objects, arrays
 - **Operators**: Arithmetic, comparison, logical
 - **Control Flow**: Conditionals, loops
+- **If/Else Statements**: Basic decision-making with conditional branches
 - **Functions**: Declaration, expressions, arrow functions
 
 ### Playwright Testing
