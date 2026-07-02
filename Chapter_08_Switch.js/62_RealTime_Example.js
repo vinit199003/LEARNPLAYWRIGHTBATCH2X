@@ -3,6 +3,6 @@
 let statusCode = 200;
 switch ( statusCode ) {
     case 200:
-        console.log( "Error: Invalid request." );
+        console.log( "Success: The request was successful." );
         break;
 }
